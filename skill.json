@@ -1,0 +1,15 @@
+{
+  "name": "genpark-virtual-inmemory-module-importer-skill",
+  "version": "1.0.0",
+  "description": "Pure in-memory virtual Python module loader registering dynamic code packages via sys.meta_path without writing to disk.",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "keywords": [
+    "virtual-module",
+    "meta-path",
+    "in-memory-import",
+    "dynamic-import",
+    "genpark",
+    "mcp"
+  ]
+}
